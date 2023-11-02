@@ -1,0 +1,150 @@
+.grid-padding {
+    padding-top: 20px !important
+}
+
+.grid-border-bot {
+    border-bottom: 1px solid gray !important
+}
+
+.flex-end-box {
+    display: flex !important;
+    padding: 10px 20px !important;
+    justify-content: flex-end !important;
+}
+
+.grid-body-container {
+    flex-grow: 1 !important;
+    padding: 24px !important;
+}
+
+.form-control-margin {
+    margin: 8px !important;
+}
+
+.child-camp-box {
+    padding: 16px !important;
+}
+
+.overflow-grid {
+    overflow: auto !important;
+    padding-bottom: 2px !important;
+}
+
+.div-flex-row {
+    display: flex !important;
+    flex-direction: row !important;
+    width: max-content !important;
+}
+
+.tab-panel-set {
+    padding: 0 !important;
+}
+
+.icon-button-add {
+    background-color: rgb(237, 237, 237) !important;
+}
+
+.card-child-camp-default {
+    width: 210px !important;
+    height: 120px !important;
+    margin-left: 16px !important;
+    cursor: pointer !important;
+    border: 2px solid rgba(33, 149, 243, 0.068) !important;
+}
+
+.card-child-camp {
+    width: 210px !important;
+    height: 120px !important;
+    margin-left: 16px !important;
+    cursor: pointer !important;
+    border: 2px solid rgb(33, 150, 243) !important;
+}
+
+.checkbox-icon {
+    font-size: 14px !important;
+    color: rgb(0, 128, 0) !important;
+    padding-left: 8px !important;
+}
+
+.checkbox-icon-disable {
+    font-size: 14px !important;
+    color: rgb(141, 141, 141) !important;
+    padding-left: 8px !important;
+}
+
+.text-header-card {
+    color: inherit;
+    white-space: normal;
+    word-break: break-all;
+}
+
+.text-header-card-error {
+    color: red;
+    white-space: normal;
+    word-break: break-all;
+}
+
+.text-content-card {
+    padding: 0px 8px !important;
+    text-align: center !important;
+}
+
+.info-grid-child-camp {
+    margin-top: 16px !important;
+}
+
+.div-checkbox {
+    padding: 4px !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.form-control-label-checkbox {
+    margin-top: 6px !important;
+}
+
+.title-table {
+    padding: 16px !important;
+    text-align: left !important;
+    margin-top: 16px !important;
+}
+
+.text-field-child-camp {
+    padding: 8px !important;
+}
+
+.card-header-child {
+    padding: 8px 8px 4px !important;
+    text-align: center !important;
+}
+
+.checkbox-table {
+    width: 60px !important;
+    padding: 0px 0px 0px 4px !important;
+}
+
+.table-cell-padding {
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+}
+
+.table-cell-width {
+    width: 50%;
+}
+
+.delete-button {
+    color: rgba(0, 0, 0, 0.54) !important;
+    cursor: pointer !important;
+}
+
+.delete-button-disable {
+    color: rgba(0, 0, 0, 0.178) !important;
+}
+
+.table-cell-default-cur {
+    cursor: default !important;
+}
+
+.table-row-selected {
+    background-color: rgba(245, 0, 87, 0.08) !important;
+}
